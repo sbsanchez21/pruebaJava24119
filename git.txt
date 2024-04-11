@@ -6,7 +6,7 @@
 - git add . //agrega todos los archivos nuevos al área de preparación
 - git commit -m 'comentario' //sube los archivos del area preparación a repo local
 - github crear repositorio 
-- git remote add origin https://github.com/sbsanchez21/integrador22543.git
+- git remote add origin https://github.com/sbsanchez21/pruebaJava24119.git
 - git push -u origin master
 
 Publicar proyecto en github pages
